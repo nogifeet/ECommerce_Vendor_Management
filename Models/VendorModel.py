@@ -1,6 +1,6 @@
 import csv
 
-VENDOR_FILE = "C:\\Users\\VIVEK.P\\Greatlearning\\IIIT-H\\Assignment Support Session\\IIIT-H-OOPs-Final-Review-updated\\IIIT-H-OOPs-Final-Review-updated\\config\\vendor.csv"
+VENDOR_FILE = "..\\config\\vendor.csv"
 
 
 class VendorModel:
